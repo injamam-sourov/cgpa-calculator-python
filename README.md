@@ -1,2 +1,2 @@
 # cgpa-calculator-python
-a basic cgpa calculator written in python
+a basic command-line cgpa calculator written in python
